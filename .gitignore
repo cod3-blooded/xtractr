@@ -1,0 +1,9 @@
+- **`.gitignore`**: Add typical patterns to ignore unnecessary files (e.g., virtual environment and compiled Python files):
+
+```text
+# Python
+*.pyc
+__pycache__/
+
+# Virtual Environment
+venv/
